@@ -2,7 +2,7 @@
 *The objective of this project is to clean the data for further analysis. Data cleaning is a very important part of data analysis where we prepare data for analysis by removing or modifying data that is incomplete or irrelevant.*
 
 ## Python Libaries Used
-### *pandas, numpy
+### pandas, numpy
 
 ## Objectives of the Data Cleaning Process
 1. Check for Duplicate Records.
@@ -16,7 +16,7 @@
 
 # Conclusion:
 
-*In this cleaning process of the FIFA'21 dataset, we performed various data cleaning techniques to address issues such as missing values, inconsistent formats, incorrect data types, special characters and duplicates. After performing these cleaning techniques, we were able to achieve a clean and structured dataset, which can be used for further analysis.
+In this cleaning process of the FIFA'21 dataset, we performed various data cleaning techniques to address issues such as missing values, inconsistent formats, incorrect data types, special characters and duplicates. After performing these cleaning techniques, we were able to achieve a clean and structured dataset, which can be used for further analysis.
 
-*Data cleaning is a critical step in any data analysis project, and it is essential to ensure that the data is accurate and consistent to derive meaningful insights
+Data cleaning is a critical step in any data analysis project, and it is essential to ensure that the data is accurate and consistent to derive meaningful insights
 
